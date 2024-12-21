@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jazlanmuhd123@gmail.com**
 
-- ⚡ Fun fact **I am a friendly person. Let's make some connection :)**
+- ⚡ Fun fact **I am friendly and love connecting with new people!  :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
