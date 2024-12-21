@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Microsoft Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jazlannnn?tab=repositories](https://github.com/jazlannnn?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/jazlannnn?tab=repositories)
 
 - 📫 How to reach me **jazlanmuhd123@gmail.com**
 
