@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jazlannnn&label=Profile%20views&color=0e75b6&style=flat" alt="jazlannnn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jazlan19_" target="blank"><img src="https://img.shields.io/twitter/follow/jazlannnn_?logo=twitter&style=for-the-badge" alt="jazlannnn_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jazlannnn_" target="blank"><img src="https://img.shields.io/twitter/follow/jazlannnn_?logo=twitter&style=for-the-badge" alt="jazlannnn_" /></a> </p>
 
 - 🔭 I’m currently working on [Weedy Rice Classification](https://github.com/jazlannnn/Weedy-Rice-Classification)
 
