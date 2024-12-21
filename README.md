@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/jazlan19_" target="blank"><img src="https://img.shields.io/twitter/follow/jazlan19_?logo=twitter&style=for-the-badge" alt="jazlan19_" /></a> </p>
 
-- 🔭 I’m currently working on [Weedy Rice Classification For Mobile Application Using Convolutional Neural Network](https://github.com/jazlannnn/Weedy-Rice-Classification)
+- 🔭 I’m currently working on [Weedy Rice Classification](https://github.com/jazlannnn/Weedy-Rice-Classification)
 
 - 🌱 I’m currently learning **Microsoft Power BI**
 
