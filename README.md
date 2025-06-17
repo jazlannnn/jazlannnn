@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Muhammad Jazlan</h1>
-<h3 align="center">AI Enthusiast</h3>
+<h3 align="center">Software Developer Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 
