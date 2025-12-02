@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Muhammad Jazlan</h1>
-<h3 align="center">Software Developer Enthusiast</h3>
+<h3 align="center">Software Engineer Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 
@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/jazlannnn_" target="blank"><img src="https://img.shields.io/twitter/follow/jazlannnn_?logo=twitter&style=for-the-badge" alt="jazlannnn_" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Website]()
+- 🔭 I’m currently working on [Terrabox]()
 
-- 🌱 I’m currently learning **Java Full-Stack**
+- 🌱 I’m currently learning **Hardware Integration**
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/jazlannnn?tab=repositories)
 
